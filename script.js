@@ -1,4 +1,4 @@
-const apiEndpoint = "https://api.edamam.com/api/recipes/v2?type=public&app_id=66c1bd49&app_key=9d51d748dfa4cfff2d039a54568dfd2a";
+const apiEndpoint = "https://api.edamam.com/api/recipes/v2?type=public&app_id=66c1bd49&app_key=";
 
 const searchForm = document.getElementById("search-form");
 searchForm.addEventListener("submit", event => {
